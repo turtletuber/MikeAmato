@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/mikeamato/static/css/main.828afe0c.chunk.css",
+    "main.css": "/mikeamato/static/css/main.c3253864.chunk.css",
     "main.js": "/mikeamato/static/js/main.5dacabc7.chunk.js",
     "main.js.map": "/mikeamato/static/js/main.5dacabc7.chunk.js.map",
     "runtime-main.js": "/mikeamato/static/js/runtime-main.69deeb06.js",
@@ -10,7 +10,7 @@
     "static/js/3.a5c89d09.chunk.js": "/mikeamato/static/js/3.a5c89d09.chunk.js",
     "static/js/3.a5c89d09.chunk.js.map": "/mikeamato/static/js/3.a5c89d09.chunk.js.map",
     "index.html": "/mikeamato/index.html",
-    "static/css/main.828afe0c.chunk.css.map": "/mikeamato/static/css/main.828afe0c.chunk.css.map",
+    "static/css/main.c3253864.chunk.css.map": "/mikeamato/static/css/main.c3253864.chunk.css.map",
     "static/js/2.d7472471.chunk.js.LICENSE.txt": "/mikeamato/static/js/2.d7472471.chunk.js.LICENSE.txt",
     "static/media/fun_thumbnail.4b1ef204.png": "/mikeamato/static/media/fun_thumbnail.4b1ef204.png",
     "static/media/hero.d6420fdd.mp4": "/mikeamato/static/media/hero.d6420fdd.mp4",
@@ -22,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.69deeb06.js",
     "static/js/2.d7472471.chunk.js",
-    "static/css/main.828afe0c.chunk.css",
+    "static/css/main.c3253864.chunk.css",
     "static/js/main.5dacabc7.chunk.js"
   ]
 }
