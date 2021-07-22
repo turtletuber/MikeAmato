@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/mikeamato/static/css/main.c3253864.chunk.css",
-    "main.js": "/mikeamato/static/js/main.5dacabc7.chunk.js",
-    "main.js.map": "/mikeamato/static/js/main.5dacabc7.chunk.js.map",
+    "main.css": "/mikeamato/static/css/main.5c7ffdb3.chunk.css",
+    "main.js": "/mikeamato/static/js/main.9d805362.chunk.js",
+    "main.js.map": "/mikeamato/static/js/main.9d805362.chunk.js.map",
     "runtime-main.js": "/mikeamato/static/js/runtime-main.69deeb06.js",
     "runtime-main.js.map": "/mikeamato/static/js/runtime-main.69deeb06.js.map",
     "static/js/2.d7472471.chunk.js": "/mikeamato/static/js/2.d7472471.chunk.js",
@@ -10,19 +10,19 @@
     "static/js/3.a5c89d09.chunk.js": "/mikeamato/static/js/3.a5c89d09.chunk.js",
     "static/js/3.a5c89d09.chunk.js.map": "/mikeamato/static/js/3.a5c89d09.chunk.js.map",
     "index.html": "/mikeamato/index.html",
-    "static/css/main.c3253864.chunk.css.map": "/mikeamato/static/css/main.c3253864.chunk.css.map",
+    "static/css/main.5c7ffdb3.chunk.css.map": "/mikeamato/static/css/main.5c7ffdb3.chunk.css.map",
     "static/js/2.d7472471.chunk.js.LICENSE.txt": "/mikeamato/static/js/2.d7472471.chunk.js.LICENSE.txt",
-    "static/media/fun_thumbnail.4b1ef204.png": "/mikeamato/static/media/fun_thumbnail.4b1ef204.png",
+    "static/media/fun_thumbnail.9b161cde.png": "/mikeamato/static/media/fun_thumbnail.9b161cde.png",
     "static/media/hero.d6420fdd.mp4": "/mikeamato/static/media/hero.d6420fdd.mp4",
-    "static/media/influx_thumbnail.3b8db17f.png": "/mikeamato/static/media/influx_thumbnail.3b8db17f.png",
+    "static/media/influx_thumbnail.50b2d3ea.png": "/mikeamato/static/media/influx_thumbnail.50b2d3ea.png",
     "static/media/innovation_thumbnail.fb27c6cf.jpeg": "/mikeamato/static/media/innovation_thumbnail.fb27c6cf.jpeg",
-    "static/media/picasso_thumbnail.7702092b.jpeg": "/mikeamato/static/media/picasso_thumbnail.7702092b.jpeg",
+    "static/media/picasso_thumbnail.299cc065.png": "/mikeamato/static/media/picasso_thumbnail.299cc065.png",
     "static/media/traction_thumbnail.51744a16.png": "/mikeamato/static/media/traction_thumbnail.51744a16.png"
   },
   "entrypoints": [
     "static/js/runtime-main.69deeb06.js",
     "static/js/2.d7472471.chunk.js",
-    "static/css/main.c3253864.chunk.css",
-    "static/js/main.5dacabc7.chunk.js"
+    "static/css/main.5c7ffdb3.chunk.css",
+    "static/js/main.9d805362.chunk.js"
   ]
 }
