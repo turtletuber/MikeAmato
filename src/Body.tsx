@@ -9,14 +9,11 @@ export default class Body extends React.Component{
     render() {
         return <>
 
+            <h2 className= 'subtitle'> Using communication and context to reduce friction between different domains. Context over control. </h2>
             <div className='Body'>
-
              <video className='videoTag' autoPlay loop muted>
                 <source src={hero} type='video/mp4' />
                 </video>
-
-            <h2 className= 'subtitle'> Using communication and context to reduce friction between different domains</h2>
-
             </div>
 
 
