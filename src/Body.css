@@ -1,0 +1,15 @@
+.Body {
+    text-align: center;
+
+}
+
+.videoTag {
+    position:  center;
+    z-index: -1;
+    height: 400px;
+
+}
+
+.subtitle {
+    font-style: italic;
+}
